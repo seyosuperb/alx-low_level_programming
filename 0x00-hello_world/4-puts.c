@@ -1,10 +1,11 @@
 #include<stdio.h>
 /**
-*main - my description
-*return: give 0
+* main - My description
+*
+* Return: always 0
 */
-int main(hello)
+int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle")
-	return (0)
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
