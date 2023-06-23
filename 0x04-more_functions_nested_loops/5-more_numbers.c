@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * more_numbers - print more numbers
+ * more_numbers - print more numbers except 2 and 4
  */
 
 void more_numbers(void)
